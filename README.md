@@ -18,7 +18,7 @@ Your are working now at Apple. In addition to the recent product iPhone 11, ther
 
 ## Knowledge Officer Robric
 <p align="center">
-<img src="https://github.com/yarahisham/Apple_Iphone_Junior-User_Interview/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.42.07%20PM.jpg" alt="alt text" width="700" height="450" >
+<img src="https://github.com/yarahisham/Apple_Iphone_Junior-User_Interview/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.42.07%20PM.jpg" alt="alt text" width="700" height="300" >
 </p>
 
 <p align="center">
