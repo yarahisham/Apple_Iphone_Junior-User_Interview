@@ -2,7 +2,7 @@
 Your are working now at Apple. In addition to the recent product iPhone 11, there is a new smartphone model called iPhone 11 Junior. It is less pricey model that targets mainly studentd or people on low budgets. For this reason, it does not have some of the features existing in the standard iPhone 11. The product has been in the market for a couple of months and you want to carry out some user interviews to gather some feedback on it to help you make some business decisions for the future versions and offer better support for iPhone 11 Junior.
 
 <p align="center">
-<img src="https://github.com/yarahisham/Apple_Iphone_Junior_CaseStudy-User_Interview/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.18.46%20PM.jpg" alt="alt text" width="700" height="100" >
+<img src="https://github.com/yarahisham/Apple_Iphone_Junior_CaseStudy-User_Interview/blob/main/Images/Screen%20Shot%202021-04-27%20at%207.18.46%20PM.jpg" alt="alt text" width="700" height="150" >
 </p>
 
 ## Description
