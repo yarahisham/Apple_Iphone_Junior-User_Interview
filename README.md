@@ -6,7 +6,7 @@ Your are working now at Apple. In addition to the recent product iPhone 11, ther
   - Step 1: Prepare for the interview session:
    - Set a clear goal.
    - Select interview method.
-   - Recruting participants.
+   - Recruiting participants.
   - Step 2: Prepare a discussion guide:
     - User intro questions.
     - Product specific questions.
